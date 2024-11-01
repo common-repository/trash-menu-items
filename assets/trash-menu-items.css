@@ -1,0 +1,9 @@
+.rb-delete-permanent{
+	color:#dc3232;
+	float: right;
+	cursor: pointer;
+}
+
+.item-trash {
+	color:#d54e22;
+}
